@@ -14,14 +14,26 @@ It enables organizations to conduct structured 360° reviews, track OKRs, and ge
 
 ## 📸 Frontend Screenshots
 
-### 🔹 Dashboard
-![Dashboard](screenshots/dashboard.png)
+### 🔹 Create Review Cycle
+<img width="2880" height="1699" alt="Screenshot (2397)" src="https://github.com/user-attachments/assets/ecfeafe1-e7d8-4a10-b990-c4e274a04cec" />
+
 
 ### 🔹 Review Submission
-![Review](screenshots/review.png)
+<img width="2880" height="1699" alt="Screenshot (2398)" src="https://github.com/user-attachments/assets/3c7146e4-3132-4ce6-ba4f-44e75276ce69" />
+
+
+### 🔹 Update OKR
+<img width="2880" height="1731" alt="Screenshot (2399)" src="https://github.com/user-attachments/assets/198cfeda-e10c-41d6-8f3c-25fb10516b23" />
+
+
+### 🔹 Report Generation
+<img width="2880" height="1731" alt="Screenshot (2400)" src="https://github.com/user-attachments/assets/b9017c96-ff58-43b3-8733-43e9d0b9fd41" />
+
 
 ### 🔹 HR Dashboard
-![HR Dashboard](screenshots/hr_dashboard.png)
+<img width="2880" height="1705" alt="Screenshot (2401)" src="https://github.com/user-attachments/assets/936f6f80-112d-4539-a908-0db256404ef0" />
+
+
 
 ---
 
@@ -112,7 +124,8 @@ This ensures unbiased and confidential feedback.
 
 ## 🖼️ Architecture Diagram
 
-![Architecture](screenshots/architecture.png)
+<img width="2121" height="1254" alt="performedge_architecture" src="https://github.com/user-attachments/assets/c0fba07b-573e-41c8-8a3c-eebce87579c0" />
+
 
 ---
 
